@@ -9,3 +9,8 @@ Can I contribute, modify, ...?
 Yes, but I would ask you to credit me (for the idea and if you used my code, if you did not use my code, just for the idea pls)
 Can I make money from a modified version of this?
 Yes (still don't forget to credit me somewhere), but I really don't know who'd pay for this crap lol :)
+
+#  What now?
+
+You can clone this repo and work on your own project if you like.
+Also if I'll have any time I'll try to update this with maybe more compact, better looking code (my first challange would be removing the codeBox... you'll see what I mean)
