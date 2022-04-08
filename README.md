@@ -20,3 +20,10 @@ Also if I'll have any time I'll try to update this with maybe more compact, bett
 # How to run
 
 I didn't make any make files or things like that just compile it yourself pls (g++ TIC-TAC-TOE.cpp) and then run the executable. If for any reason it doesn't work, just tell me, I think it should work on Windows but I didn't test it (I'm on Linux).
+
+# Features
+
+The "game" has a 2 player mode, but I didn't have time to add checking for wins (will prob come in the future, but it does check for draws after 9 turns). It also doesn't have any AI, because of the same reason as above, but this is also planned.
+Recap: So you can play it, if someone wins you press CTRL + C and if it's a draw it will display. On the start there will be a drawn game board, that will be redrawn after every turn with the updates.
+
+# I hope you enjoy this little project of mine
