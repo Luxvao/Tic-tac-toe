@@ -1,7 +1,7 @@
 # Tic-tac-toe
 This is the official repo for the TIC-TAC-TOE project (if you can call it a project)
 
-# I would call this FAQ, but noone have ever asked any questions, because this is new
+# I would call this FAQ, but no one have ever asked any questions, because this is new
 
 What's this project about?
 Making a tic-tac-toe game (in C++) which's code is in the shape of TIC-TAC-TOE
