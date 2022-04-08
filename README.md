@@ -16,3 +16,7 @@ You have to understand me, I am planning on removing the completely (and the cod
 
 You can clone this repo and work on your own project if you like.
 Also if I'll have any time I'll try to update this with maybe more compact, better looking code (my first challange would be removing the codeBox... you'll see what I mean)
+
+# How to run
+
+I didn't make any make files or things like that just compile it yourself pls (g++ TIC-TAC-TOE.cpp) and then run the executable. If for any reason it doesn't work, just tell me, I think it should work on Windows but I didn't test it (I'm on Linux).
