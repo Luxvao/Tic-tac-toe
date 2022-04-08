@@ -27,3 +27,5 @@ The "game" has a 2 player mode, but I didn't have time to add checking for wins 
 Recap: So you can play it, if someone wins you press CTRL + C and if it's a draw it will display. On the start there will be a drawn game board, that will be redrawn after every turn with the updates.
 
 # I hope you enjoy this little project of mine
+
+# DISCLAIMERS: PLEASE DON'T JUST STEAL MY WORK, CREDIT ME AND IF YOU DO THAT YOU'RE FREE TO DO ANYTHING WITH THIS PROJECT, THANK YOU
