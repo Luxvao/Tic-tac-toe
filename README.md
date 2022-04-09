@@ -21,6 +21,10 @@ Also if I'll have any time I'll try to update this with maybe more compact, bett
 
 I didn't make any make files or things like that just compile it yourself pls (g++ TIC-TAC-TOE.cpp) and then run the executable. If for any reason it doesn't work, just tell me, I think it should work on Windows but I didn't test it (I'm on Linux).
 
+# How to play?
+
+Run it and then it will ask you for coordinates (y, x), the y and x will always be 3 or less
+
 # Features
 
 The "game" has a 2 player mode, but I didn't have time to add checking for wins (will prob come in the future, but it does check for draws after 9 turns). It also doesn't have any AI, because of the same reason as above, but this is also planned.
